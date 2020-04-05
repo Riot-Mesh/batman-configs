@@ -1,0 +1,10 @@
+Package: kmod-lib-crc32c
+Version: 4.14.167-1
+Depends: kernel (=4.14.167-1-ae418ed2395263358bbe7536d318ae28), kmod-crypto-crc32c
+Source: package/kernel/linux
+SourceName: kmod-lib-crc32c
+License: GPL-2.0
+Section: kernel
+Architecture: aarch64_cortex-a53
+Installed-Size: 1248
+Description:  Kernel module for CRC32 support

@@ -1,0 +1,5 @@
+network.loopback.up='1'
+network.bat0.up='1'
+network.bat0.ifname='bat0'
+network.lan.up='1'
+network.lan.ifname='br-lan'

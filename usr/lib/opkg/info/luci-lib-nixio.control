@@ -1,0 +1,10 @@
+Package: luci-lib-nixio
+Version: git-20.029.45734-adbbd5c-1
+Depends: libc, liblua5.1.5
+Source: feeds/luci/libs/luci-lib-nixio
+SourceName: luci-lib-nixio
+License: Apache-2.0
+Section: luci
+Architecture: aarch64_cortex-a53
+Installed-Size: 29301
+Description:  NIXIO POSIX library

@@ -1,0 +1,14 @@
+Package: git-http
+Version: 2.24.1-1
+Depends: libc, libopenssl1.1, libpthread, librt, zlib, git, libcurl4
+Source: feeds/packages/net/git
+SourceName: git-http
+Section: net
+Maintainer: Peter Wagner <tripolar@gmx.at>
+Architecture: aarch64_cortex-a53
+Installed-Size: 1921157
+Description:  Git is a free & open source, distributed version control system
+ designed to handle everything from small to very large projects
+ with speed and efficiency.
+ 
+ This package allows git push/fetch over http(s) and ftp(s)

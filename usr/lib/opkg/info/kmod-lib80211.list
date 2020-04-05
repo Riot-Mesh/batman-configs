@@ -1,0 +1,5 @@
+/lib/modules/4.14.167/lib80211.ko
+/lib/modules/4.14.167/lib80211_crypt_tkip.ko
+/lib/modules/4.14.167/lib80211_crypt_ccmp.ko
+/lib/modules/4.14.167/lib80211_crypt_wep.ko
+/etc/modules.d/lib80211

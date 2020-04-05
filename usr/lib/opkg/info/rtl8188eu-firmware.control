@@ -1,0 +1,10 @@
+Package: rtl8188eu-firmware
+Version: 20190416-1
+Depends: libc
+Source: feeds/base/package/firmware/linux-firmware
+SourceName: rtl8188eu-firmware
+Section: firmware
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: aarch64_cortex-a53
+Installed-Size: 8286
+Description:  RealTek RTL8188EU firmware

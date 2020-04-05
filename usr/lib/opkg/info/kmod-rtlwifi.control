@@ -1,0 +1,10 @@
+Package: kmod-rtlwifi
+Version: 4.14.167+4.19.98-1-1
+Depends: kernel (=4.14.167-1-ae418ed2395263358bbe7536d318ae28), kmod-mac80211
+Source: package/kernel/mac80211
+SourceName: kmod-rtlwifi
+Section: kernel
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: aarch64_cortex-a53
+Installed-Size: 33197
+Description:  Realtek common driver part

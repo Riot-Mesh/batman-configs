@@ -1,0 +1,4 @@
+/lib/modules/4.14.167/xt_CT.ko
+/lib/modules/4.14.167/xt_conntrack.ko
+/etc/modules.d/ipt-conntrack
+/lib/modules/4.14.167/xt_state.ko
