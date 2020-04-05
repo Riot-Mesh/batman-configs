@@ -1,8 +1,9 @@
 # batman-configs
-### Tested on Linux OpenWrt 4.14.167 #0 SMP Wed Jan 29 16:05:35 2020 aarch64 GNU/Linux
-#### kmod-batman-adv - 4.14.167+2019.2-5
-#### batctl-default - 2019.2-3
-
+```
+Tested on Linux OpenWrt 4.14.167 #0 SMP Wed Jan 29 16:05:35 2020 aarch64 GNU/Linux
+kmod-batman-adv - 4.14.167+2019.2-5
+batctl-default - 2019.2-3
+```
 ``/etc/config/network``
 ```
 config interface 'loopback'
