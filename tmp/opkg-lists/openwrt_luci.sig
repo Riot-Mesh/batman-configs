@@ -1,2 +1,0 @@
-untrusted comment: signature from OpenWrt 19.07 release signature
-RWT5S53W/rrJY5TucMotHlSecSfzduIofJqFHwsNmbbsrt9qmB82uvCXL3lZl4iabFu6zhDzYl3zmo4K2gi+Lbwh0DkWk9bI3gc=

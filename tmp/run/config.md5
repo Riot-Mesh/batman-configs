@@ -2,9 +2,9 @@
 c3c944c737f368b1ac57b3d106765081  /var/run/config.check/dropbear
 a9d62171bf888867fa9c1eeeed62f12d  /var/run/config.check/firewall
 61445faa61919786f814c6d759462a81  /var/run/config.check/luci
-04c70846658ceb9671c79029310d60af  /var/run/config.check/network
+14a055d2d12a07fc7852205843602475  /var/run/config.check/network
 33d2484695d030ddd53368f55b0e4ee9  /var/run/config.check/rpcd
 6c66485a27b163e197acc8bc5c4f354e  /var/run/config.check/system
 df2e72c7878469aa9074df6bd402c8ca  /var/run/config.check/ucitrack
 de2ff1b75e3d47c1be0d211c46d8156a  /var/run/config.check/uhttpd
-773c593a00f9cf3c4bfe5c19de3dd0f1  /var/run/config.check/wireless
+a285bb8dfd8b3c31a5e2cf32ad963ee6  /var/run/config.check/wireless

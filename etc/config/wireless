@@ -5,7 +5,7 @@ config wifi-device 'radio0'
 	option hwmode '11a'
 	option path 'platform/soc/3f300000.mmc/mmc_host/mmc1/mmc1:0001/mmc1:0001:1'
 	option htmode 'VHT80'
-	option disabled '1'
+	option disabled '0'
 
 config wifi-iface 'default_radio0'
 	option device 'radio0'
@@ -14,11 +14,12 @@ config wifi-iface 'default_radio0'
 	option ssid 'OpenWrt'
 	option encryption 'none'
 
-config wifi-iface bat0
-        option device   'radio0'
-        option network   'bat0'
-        option mode     'adhoc'
-        option ssid     OLSR
-        option hidden   8
-	option mtu 1536
-        option encryption none
+
+config wifi-iface 'default_radio1'
+        option device 'radio1'
+        option mode 'adhoc'
+        option ssid 'mymeshaarnav'
+        option encryption 'none'
+        option channel '8'
+        option mtu '1536'
+        option network 'nwi_mesh0'

@@ -53,3 +53,5 @@ config wifi-iface 'default_radio1'
         option mtu '1536'
         option network 'nwi_mesh0'
 ```
+
+after doing so, run: `batctl if add wlan0`(or any other interface you choose)

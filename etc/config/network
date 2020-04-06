@@ -17,5 +17,12 @@ config interface 'lan'
 	option proto 'dhcp'
 
 
-config interface 'bat0'
+# ADD THIS
+config interface bat0
 	option proto 'batadv'
+ 
+# ADD THIS
+config interface 'nwi_mesh0'
+	option mtu '2304'
+	option proto 'batadv_hardif'
+	option master 'bat0'
